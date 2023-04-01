@@ -26,7 +26,7 @@ Experienced IoT and Embedded Systems Expert with a passion for creating innovati
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Joshua Nyandwaki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Joshua Nyandwaki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
