@@ -8,7 +8,7 @@ Experienced IoT and Embedded Systems Expert with a passion for creating innovati
 
 * 🌍  I'm based in Nairobi Kenya .
 * 🧠  I'm learning Machine Learning on IOT
-* ⚡  I've been sent from the future to safeguard John Connor's existence and keep the timeline intact.
+* ⚡  I'm a Villain.
 
 ### Skills
 
